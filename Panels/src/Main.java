@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         ImageIcon icon = new ImageIcon("ThumbsUp.jpg");
         JLabel label = new JLabel();
-        label.setText("Hi");
+        label.setText("Hii");
         label.setIcon(icon);
         label.setVerticalAlignment(JLabel.BOTTOM);
         label.setHorizontalAlignment(JLabel.RIGHT);
