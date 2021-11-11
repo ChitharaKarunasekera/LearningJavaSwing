@@ -12,7 +12,7 @@ public class MyFrame extends JFrame {
         this.setVisible(true);// make table visible
 
 
-        ImageIcon image = new ImageIcon("CompanyName.png");//create an image icon
+        ImageIcon image = new ImageIcon("CompanyName.png"); //create an image icon
         this.setIconImage(image.getImage());//change icon of frame
         this.getContentPane().setBackground(new Color(0,255,0));//change colour of background
     }
