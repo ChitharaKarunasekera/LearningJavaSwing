@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b7f03fe-d815-49af-9243-a07314f4e046" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Labels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buttons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buttons/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -114,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636614528137</updated>
       <workItem from="1636614529546" duration="1842000" />
+      <workItem from="1637070231932" duration="949000" />
     </task>
     <servers />
   </component>
