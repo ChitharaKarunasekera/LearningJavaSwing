@@ -1,8 +1,10 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Main {
+    static int a = 0;
 
     public static void main(String[] args) {
         JFrame f = new JFrame("Example for Simulation");//create frame
@@ -20,10 +22,17 @@ public class Main {
             }
         });
 
-        b.addActionListener(new ActionListener() {
+        colorBtn.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+                if (a%2 == 0){
+                    f.getContentPane().setBackground(Color.CYAN);
+                    a++;
+                }
+                else {
+                    f.getContentPane().setBackground(Color.green);
+                    a++;
+                }
             }
         });
 
