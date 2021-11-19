@@ -10,7 +10,7 @@ public class LaunchPage implements ActionListener{
     JButton myButton = new JButton("New Window");
 
     public LaunchPage(){
-        myButton.setBounds(100,160,200,40);
+        myButton.setBounds(100,160,200,40);//
         myButton.setFocusable(false);
         myButton.addActionListener(this);
 
