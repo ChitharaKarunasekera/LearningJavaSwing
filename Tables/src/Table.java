@@ -22,6 +22,6 @@ public class Table extends JFrame {
 
         //scroll pane
         JScrollPane scrollPane = new JScrollPane(table);
-        add(scrollPane);//table is inside scroll panE
+        add(scrollPane);//table is inside scroll pane
     }
 }
