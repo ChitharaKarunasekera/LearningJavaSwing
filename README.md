@@ -1,3 +1,3 @@
 # LearningJavaSwing
 
-This repository con
+This repository was created to try out various features of Java Swing.
