@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new teXT dOc
+New test Do
+=======
 New test Doc
+>>>>>>> 015e5c47d6bc9872f0ba915cfa3f553e7161846b
