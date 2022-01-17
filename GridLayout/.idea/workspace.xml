@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ebf60e5-ec9f-4269-bf43-3eb6635f32de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d98904b9-6cba-4b37-b3f1-96820594cb42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Buttons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buttons/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Panels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Panels/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Tables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tables/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -14,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="20lQQsjZ24sObFObN9C0unoV2xd" />
+  <component name="ProjectId" id="217ywCMPOkgF5BIrNccOpSeXook" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -76,19 +76,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Panels" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Buttons" />
+      <module name="GridLayout" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,32 +110,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ebf60e5-ec9f-4269-bf43-3eb6635f32de" name="Default Changelist" comment="" />
-      <created>1636616683208</created>
+      <changelist id="d98904b9-6cba-4b37-b3f1-96820594cb42" name="Default Changelist" comment="" />
+      <created>1637306659177</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636616683208</updated>
-      <workItem from="1636616684496" duration="4476000" />
-      <workItem from="1636874286390" duration="758000" />
-      <workItem from="1636955428762" duration="679000" />
-      <workItem from="1637071188505" duration="641000" />
-      <workItem from="1637316441273" duration="1811000" />
+      <updated>1637306659177</updated>
+      <workItem from="1637306660494" duration="3801000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
