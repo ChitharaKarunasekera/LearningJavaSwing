@@ -17,6 +17,6 @@ public class Main {
 //        frame.getContentPane().setBackground(new Color(0,255,0));//change colour of background
 
         //instance of MYFrame
-        MyFrame myFrame = new MyFrame();
+        MyFrame myFrame = new MyFrame( );
     }
 }
